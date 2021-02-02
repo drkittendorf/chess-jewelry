@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chess-jewelry/static/css/main.0844e0e0.chunk.css",
+    "main.js": "/chess-jewelry/static/js/main.6851fac2.chunk.js",
+    "main.js.map": "/chess-jewelry/static/js/main.6851fac2.chunk.js.map",
+    "runtime-main.js": "/chess-jewelry/static/js/runtime-main.e048cea5.js",
+    "runtime-main.js.map": "/chess-jewelry/static/js/runtime-main.e048cea5.js.map",
+    "static/css/2.150d169a.chunk.css": "/chess-jewelry/static/css/2.150d169a.chunk.css",
+    "static/js/2.c047d7b2.chunk.js": "/chess-jewelry/static/js/2.c047d7b2.chunk.js",
+    "static/js/2.c047d7b2.chunk.js.map": "/chess-jewelry/static/js/2.c047d7b2.chunk.js.map",
+    "index.html": "/chess-jewelry/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/chess-jewelry/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.0844e0e0.chunk.css.map": "/chess-jewelry/static/css/main.0844e0e0.chunk.css.map",
+    "static/js/2.c047d7b2.chunk.js.LICENSE.txt": "/chess-jewelry/static/js/2.c047d7b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e048cea5.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.c047d7b2.chunk.js",
+    "static/css/main.0844e0e0.chunk.css",
+    "static/js/main.6851fac2.chunk.js"
+  ]
+}
